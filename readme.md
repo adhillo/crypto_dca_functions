@@ -1,6 +1,6 @@
 ## Repeating Deposits & Buys on Coinbase
 
-The detailed walkthrough lives on my Substack - https://sandcastle.substack.com/publish/post/48075762
+The detailed walkthrough lives on my Substack - https://sandcastle.substack.com/p/how-to-build-a-bitcoin-buying-bot
 
 This is a project designed to make it straightforward to repeatedly buy a fixed amount of the cyrptos of your choice. 
 
