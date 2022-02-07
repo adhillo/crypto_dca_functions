@@ -19,7 +19,7 @@ deposit_on_run = True
 
 # quantity of dollar investment for each round buying; if "deposit_on_run" is True, you will first bring
 # in this quantity as USD
-investment_size = 1000
+investment_size = 100
 
 # Set up your recurring buy goals, add new pairs to buy with USD
 # for example to buy link add the line -> "buys['LINK-USD'] = {'percent': .1}"
